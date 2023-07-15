@@ -1,0 +1,1 @@
+# Projeto voltado para estudo de banco de dados e futuras aplicações
